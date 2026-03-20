@@ -10,3 +10,5 @@ app_opens_per_day,weekend_screen_time,stress_level,academic_work_impact
 เป้าหมาย
 addicted_label
 1=ติดโทรศัพท์ 0=ไม่ติด
+
+https://www.kaggle.com/datasets/jayjoshi37/smartphone-usage-and-addiction-prediction 
